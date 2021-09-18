@@ -3,3 +3,13 @@
   color: #F0FFF0;
   text-align: center;
 }
+
+main {
+  background-color: SlateGrey;
+}
+
+body {
+ background-image: url(record.png);
+ background-color: #FFF0F5;
+ background-repeat: repeat;
+}
