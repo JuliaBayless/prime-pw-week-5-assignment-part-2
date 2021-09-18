@@ -2,14 +2,21 @@
   background-color: #556B2F;
   color: #F0FFF0;
   text-align: center;
+  padding: 1px;
+   text-shadow: 2px 2px #2F4F4F;
 }
 
 main {
   background-color: SlateGrey;
+  opacity: 90%;
+  padding: 1em;
+  font-size: 18px;
+  font-family: monospace, sans-serif;
 }
 
 body {
  background-image: url(record.png);
  background-color: #FFF0F5;
  background-repeat: repeat;
+ margin: 0;
 }
